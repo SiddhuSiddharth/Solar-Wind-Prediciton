@@ -9,10 +9,17 @@ To run this on your computer:
 4. Run all the jupyter cells one by one
 5. Observe the results and record your observations
 
+These are the SARIMAX results for every DST category alike.
 
 ![image](https://github.com/user-attachments/assets/b7a721f8-b93f-4b02-99d7-c1314ee60f51)
 ![image](https://github.com/user-attachments/assets/b7a721f8-b93f-4b02-99d7-c1314ee60f51)
 
+These are the VARMAX results for all the necessary features.
 
 ![image](https://github.com/user-attachments/assets/0c871fb6-808e-46db-8f65-ed8bcee50682)
 ![image](https://github.com/user-attachments/assets/0c871fb6-808e-46db-8f65-ed8bcee50682)
+
+These are the finals results obtained from performing classification of threshold points
+
+![image](https://github.com/user-attachments/assets/e113f60f-b103-46a3-86d2-95dd4e930cc1)
+![image](https://github.com/user-attachments/assets/e113f60f-b103-46a3-86d2-95dd4e930cc1)
