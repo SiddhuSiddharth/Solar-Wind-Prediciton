@@ -8,3 +8,11 @@ To run this on your computer:
 3. Import the neceassry libraries given in the prerequisites
 4. Run all the jupyter cells one by one
 5. Observe the results and record your observations
+
+
+![image](https://github.com/user-attachments/assets/b7a721f8-b93f-4b02-99d7-c1314ee60f51)
+![image](https://github.com/user-attachments/assets/b7a721f8-b93f-4b02-99d7-c1314ee60f51)
+
+
+![image](https://github.com/user-attachments/assets/0c871fb6-808e-46db-8f65-ed8bcee50682)
+![image](https://github.com/user-attachments/assets/0c871fb6-808e-46db-8f65-ed8bcee50682)
